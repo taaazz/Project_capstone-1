@@ -9,7 +9,7 @@ warnings.filterwarnings("ignore")
 
 st.set_page_config(
     page_title="Mango Leaf Disease Detection",
-    page_icon = ":mango:",
+    page_icon = ":food:",
     initial_sidebar_state = 'auto'
 )
 hide_streamlit_style = """
