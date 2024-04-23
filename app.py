@@ -18,7 +18,7 @@ hide_streamlit_style = """
             footer {visibility: hidden;}
             </style>
             """
-st.markdown(light_theme, unsafe_allow_html=True)
+st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
 def prediction_cls(prediction):
     for key, clss in class_names.items():
