@@ -9,7 +9,7 @@ warnings.filterwarnings("ignore")
 
 st.set_page_config(
     page_title="NutriMate",
-    page_icon = "asset\icon.jpeg",
+    page_icon = "Project_capstone-1\asset\icon.jpeg",
     initial_sidebar_state = 'auto'
 )
 hide_streamlit_style = """
