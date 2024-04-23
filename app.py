@@ -8,8 +8,8 @@ import warnings
 warnings.filterwarnings("ignore")
 
 st.set_page_config(
-    page_title="Mango Leaf Disease Detection",
-    page_icon = ":food:",
+    page_title="NutriMate",
+    page_icon = "asset\icon.jpeg",
     initial_sidebar_state = 'auto'
 )
 hide_streamlit_style = """
